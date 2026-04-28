@@ -1,0 +1,33 @@
+{
+  "greetingText": "今夜的星光，好像比平时更温柔。",
+  "name": "亲爱的 丽丽",
+  "greetingText2": "因为它们都在等待今天最特别的你登场。",
+  "text1": "准备好开启这场只属于你的生日梦境了吗？",
+  "textInChatBox": "丽丽，\n愿你在新的一岁里，\n不再内耗，心里始终温暖。\n愿你被爱、被珍惜，\n也愿你的每一个小小心愿，\n都能慢慢开花结果。",
+  "sender": "—— 送你这份祝福的人",
+  "text2": "今天，是独属于你的闪耀时刻。",
+  "text3": "今晚想把这些美好送给你：",
+  "text4": "【很多很多的快乐】\n【长长久久的好运】",
+  "text4Adjective": "都轻轻落在你身上。",
+  "text5Entry": "还有",
+  "text5Content": "愿新的一岁里，你所期待的温柔与惊喜，都会一步一步向你靠近。",
+  "smiley": "✨",
+  "bigTextPart1": "生日",
+  "bigTextPart2": "快乐",
+  "wishHeading": "许个愿吧",
+  "wishText": "愿你许下的心愿，都能在未来的日子里被温柔实现。",
+  "outroText": "愿你许下的心愿，都能在未来的日子里温柔实现。",
+  "replayText": "再重温一次这场星光梦境",
+  "music": "music/bgMusic.mp3",
+  "imagePath": "img/bg/lili.png?v=1",
+  "pageBackgrounds": {
+    "start": "img/bg/bg-start-magic.png?v=5",
+    "letter": "img/bg/bg-letter.png?v=5",
+    "birthday": "img/bg/bg-birthday-reveal.png?v=5",
+    "honor": "img/bg/bg-honor-stage.png?v=5",
+    "mvp": "img/bg/bg-mvp.png?v=5",
+    "ro": "img/bg/bg-ro-town.png?v=5",
+    "wish": "img/bg/bg-birthday-card.png?v=5",
+    "final": "img/bg/bg-final-fireworks.png?v=5"
+  }
+}
